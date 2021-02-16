@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://akash:akash7005@cluster0.e3vsh.mongodb.net/akash",
+    "secret": "akash"
+}
